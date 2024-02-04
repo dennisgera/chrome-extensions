@@ -1,0 +1,28 @@
+h3 {
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: blue;
+}
+
+p {
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: black
+}
+
+button {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
